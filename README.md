@@ -1,4 +1,4 @@
-# Myntra Hackathon 2020 : Solution
+# Myntra Hackathon 2020 : Winning Solution
 ## Theme of the Challenge : Trendiness
 ## Table of Contents
 - [Overview](#Overview)
