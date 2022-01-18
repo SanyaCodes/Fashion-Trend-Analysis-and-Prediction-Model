@@ -4,7 +4,7 @@
 - [Overview](#Overview)
 - [Objective](#Objective)
 - [Procedure](#Procedure)
-     *  [Trend Prediction](#Trend-Prediction)
+     *  [Data Cllection}(#Data-Collection)
      *  [Semantic Segmentation](#Semantic-Segmentation)
      *  [Attribute Recognition](#Attribute-Recognition)
 - [Results](#Results)
