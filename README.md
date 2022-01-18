@@ -1,10 +1,10 @@
-# Myntra Hackathon 2020 : Winning Solution
+# Myntra Hackathon 2020 : Solution
 ## Theme of the Challenge : Trendiness
 ## Table of Contents
 - [Overview](#Overview)
 - [Objective](#Objective)
 - [Procedure](#Procedure)
-     *  [Data Cllection}(#Data-Collection)
+     *  [Data Cllection](#Data-Collection)
      *  [Semantic Segmentation](#Semantic-Segmentation)
      *  [Attribute Recognition](#Attribute-Recognition)
 - [Results](#Results)
