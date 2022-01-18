@@ -1,5 +1,6 @@
 # Myntra Hackathon 2020 : Solution
 ## Theme of the Challenge : Trendiness
+## Refer to PPT : https://github.com/Ssanyachetwani/Fashion-Trend-Analysis-and-Prediction-Model/blob/main/Myntra%20PPT.pptx
 ## Table of Contents
 - [Overview](#Overview)
 - [Objective](#Objective)
